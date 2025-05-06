@@ -58,10 +58,13 @@ Dreamfall est une aventure immersive en 3D où les joueurs incarnent une licorne
 - Reduction de la distance des caméras : 30
 
 ### La v1 de notre jeu sans optimisation : 
-Lien : 
+Lien : game-onweb.vercel.app // VIELLE VERSION POUR VOIR LA DIFFERENCE AU NIVEAU PERFORMANCE SUR LA VERSION FINAL
 
 ### Lien jeu final ici :
-Lien : 
+Lien : babylon-js-final-babygame.vercel.app
+// VERSION FINAL MAIS DES AMELIORATION SONT OBLIGATOIRE POUR LE GAMEONWEB
+// CHANGER LES TEXTE ('ANCIEN TEXTE QUI N'ONT PAS ETE MODIFIER')
+// LA MAP QUI VA ETRE UTILISER ET QUI VA DEVOIR MONTRER OU SONT LES ENNEMI, LES BANANES, LE CHIEN OU LA REINE.
 
 ## Installation
 
